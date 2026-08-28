@@ -1,0 +1,66 @@
+[
+  {
+    "company_name": "Apex Precision Engineering Ltd",
+    "interaction_type": "negotiation",
+    "transcript_text": "Buyer requested a 45-day extension on invoice #8892 due to temporary liquidity constraints. Supplier agreed to a 30-day extension with a 1.5% interest buffer. Overall tone was cooperative and constructive.",
+    "sentiment_score": 0.45,
+    "risk_flag_score": 0.20,
+    "interaction_date": "2024-03-15"
+  },
+  {
+    "company_name": "Apex Precision Engineering Ltd",
+    "interaction_type": "service_recovery",
+    "transcript_text": "Minor batch defect identified in delivery batch #401. Supplier dispatched replacement tooling within 24 hours with dedicated on-site technician support. Client verified replacement quality and expressed full satisfaction.",
+    "sentiment_score": 0.75,
+    "risk_flag_score": 0.10,
+    "interaction_date": "2024-04-10"
+  },
+  {
+    "company_name": "Zenith Logistics & Transport",
+    "interaction_type": "service_failure",
+    "transcript_text": "Severe 6-day transit delay on urgent cold-chain pharmaceutical cargo. Temperature sensors reported excursion beyond allowable threshold. Shipper filed formal breach notice and withheld Q2 service payment.",
+    "sentiment_score": -0.82,
+    "risk_flag_score": 0.85,
+    "interaction_date": "2024-05-02"
+  },
+  {
+    "company_name": "Zenith Logistics & Transport",
+    "interaction_type": "negotiation",
+    "transcript_text": "Heated rate renegotiation meeting. Client rejected fuel surcharge escalation clause and threatened immediate RFP re-tendering if contract terms are not frozen for 12 months.",
+    "sentiment_score": -0.65,
+    "risk_flag_score": 0.70,
+    "interaction_date": "2024-06-18"
+  },
+  {
+    "company_name": "Nova BioTech Pharmaceuticals",
+    "interaction_type": "negotiation",
+    "transcript_text": "Annual supply framework contract renewed with a 12% increase in contracted volume. Payment terms finalized at Net 30 with early payment discount of 2%. Both parties affirmed strategic multi-year partnership.",
+    "sentiment_score": 0.88,
+    "risk_flag_score": 0.05,
+    "interaction_date": "2024-02-20"
+  },
+  {
+    "company_name": "Skyline Infra & Construction",
+    "interaction_type": "service_failure",
+    "transcript_text": "Subcontractor missed Phase 2 foundation pouring milestone by 3 weeks. Main contractor issued liquidated damages warning citing penalty clauses. Subcontractor blamed severe cement supplier shortages.",
+    "sentiment_score": -0.72,
+    "risk_flag_score": 0.80,
+    "interaction_date": "2024-07-05"
+  },
+  {
+    "company_name": "Skyline Infra & Construction",
+    "interaction_type": "service_recovery",
+    "transcript_text": "Subcontractor mobilized double shifts over weekends and recovered 10 days on the critical path. Main contractor acknowledged progress and agreed to waive liquidated damages upon milestone sign-off.",
+    "sentiment_score": 0.35,
+    "risk_flag_score": 0.35,
+    "interaction_date": "2024-08-01"
+  },
+  {
+    "company_name": "Kaveri Organic Foods & Spices",
+    "interaction_type": "negotiation",
+    "transcript_text": "Supermarket chain requested volume rebate retroactive for past 6 months. Supplier politely declined but offered marketing support co-pay of $2,000 for festival season display. Friendly mutual compromise reached.",
+    "sentiment_score": 0.60,
+    "risk_flag_score": 0.15,
+    "interaction_date": "2024-06-12"
+  }
+]
