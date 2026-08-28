@@ -1,0 +1,11 @@
+sector,demand_elasticity,cyclicality_index,growth_rate_yoy,margin_sensitivity,default_base_rate,median_current_ratio,median_quick_ratio,median_debt_to_equity,median_gross_margin,median_net_margin,median_dso_days
+Retail & E-commerce,1.45,0.72,0.065,0.85,0.048,1.35,0.70,1.40,0.22,0.038,25
+Textiles & Apparel,1.30,0.68,0.042,0.78,0.055,1.40,0.85,1.65,0.24,0.042,65
+Light Manufacturing & Engineering,0.95,0.60,0.078,0.65,0.038,1.60,1.10,1.25,0.28,0.065,55
+IT & Software Services,0.55,0.35,0.145,0.40,0.022,2.10,1.85,0.45,0.45,0.145,75
+Food Processing & FMCG,0.40,0.25,0.082,0.50,0.028,1.45,0.80,1.10,0.20,0.045,30
+Construction & Subcontracting,1.65,0.88,0.051,0.90,0.072,1.25,0.90,2.10,0.18,0.032,95
+Pharmaceuticals & Healthcare,0.30,0.20,0.115,0.35,0.018,1.95,1.40,0.75,0.38,0.110,60
+Chemicals & Specialty Materials,0.85,0.65,0.060,0.70,0.042,1.55,1.05,1.30,0.26,0.058,50
+Automotive Components,1.15,0.75,0.058,0.80,0.051,1.40,0.95,1.50,0.23,0.048,70
+Logistics & Freight Services,1.20,0.58,0.075,0.75,0.045,1.30,1.00,1.80,0.19,0.040,45
