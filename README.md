@@ -103,7 +103,7 @@ Every prediction is fully audited via an interpretable **SHAP (SHapley Additive 
 
 #### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/CreditPulse.git
+git clone https://github.com/24f2002943/CreditPulse.git
 cd CreditPulse
 ```
 
